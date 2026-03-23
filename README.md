@@ -1,0 +1,2 @@
+# AutoOpenPreviewPanel-test
+Test repo for AutoOpenPreviewPanel extension
