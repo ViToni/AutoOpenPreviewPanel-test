@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "asciidoctor.asciidoctor-vscode",
+        "matt-rudge.auto-open-preview-panel",
+    ],
+}

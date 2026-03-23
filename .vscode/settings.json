@@ -1,0 +1,7 @@
+{
+    // Open the preview panel to the side instead of in a new editor tab.
+    "autoOpenPreviewPanel.openPreviewToSide": true,
+    // Supported preview languages.
+    // Comma-separated list, e.g: markdown,asciidoc
+    "autoOpenPreviewPanel.languages": "markdown,asciidoc",
+}
